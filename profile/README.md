@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/YXmTdTG/logo-v2.png" alt="Logo" width="100"/>
-
 ## SneakerSea
 
 Ce projet est mis à la disposition de tous les développeurs impliqués dans ce projet.
